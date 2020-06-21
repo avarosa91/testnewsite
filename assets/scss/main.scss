@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  outline: none;
+}
+
+.wrapper {
+  header {
+    display: flex;
+    height: 70px;
+    background-color: $light-grey;
+  }
+}
