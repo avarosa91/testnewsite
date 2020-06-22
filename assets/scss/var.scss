@@ -1,8 +1,19 @@
+$font-family: 'Montserrat', sans-serif;
+$font-size-base: 0.925rem;
+$base-color: #66f;
+$text-dark: #3c4250;
+$border-color: #ececec;
+
+$navbar-body-color: #fff;
+$navbar-link-hover: $base-color;
+$navbar-dropdown-separator-color: #eee;
+$navbar-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.035);
+
 $font-mon-light: 'Montserrat Light', sans-serif;
 $font-mon-reg: 'Montserrat Regular', sans-serif;
 $font-mon-semi: 'Montserrat Semibold', sans-serif;
 
-/***    colors     ***/
+/***    base colors     ***/
 $white: #ffffff;
 $black: #130C0E;
 $light-grey: #dadada;
